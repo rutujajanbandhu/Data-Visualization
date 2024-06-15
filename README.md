@@ -23,3 +23,5 @@ Violin plots complement box plots by displaying the data distribution as a kerne
 
 ![App Screenshot](https://github.com/rutujajanbandhu/Data-Visualization/blob/main/Screenshorts/thyroid3.jpg)
 ![App Screenshot](https://github.com/rutujajanbandhu/Data-Visualization/blob/main/Screenshorts/thyroid4.jpg)
+
+- In thw similar way we also visualized for three different dataset as 
